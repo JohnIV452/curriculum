@@ -21,6 +21,7 @@ Projeto de currículo em HTML5 criado para a atividade prática de Git e GitHub.
 9. Confirmação do curso de Almoxarifado realizado no SENAI
 10. Ajuste do cabeçalho de contato, removendo perfis que não possui e alinhando os dados de contato
 11. Detalhamento dos cursos de Excel básico no SENAI (2026), Inglês básico na Prime Cursos (2021) e conclusão do Tiro de Guerra (2022)
+12. Padronização visual dos cursos, exibindo “Inglês básico — Prime Cursos” na mesma linha do título, como nos cursos do SENAI.
 
 ## Antes de entregar
 
@@ -28,7 +29,7 @@ Projeto de currículo em HTML5 criado para a atividade prática de Git e GitHub.
 - A formação “Ensino Médio Completo” foi incluída com conclusão em 2020; a instituição não foi informada.
 - O curso de Almoxarifado foi realizado no SENAI e está registrado com conclusão em 2026, conforme confirmado.
 - O curso de Excel básico foi realizado no SENAI e concluído em 2026.
-- O curso de Inglês básico foi realizado na Prime Cursos e concluído em 2021; a seção Idiomas também indica Inglês básico.
+- O curso de Inglês básico foi realizado na Prime Cursos e concluído em 2021; a instituição aparece ao lado do nome do curso, seguindo o mesmo padrão visual do SENAI. A seção Idiomas também indica Inglês básico.
 - O Tiro de Guerra, no Exército Brasileiro, está registrado com conclusão em 2022.
 - Os links de LinkedIn e GitHub foram removidos do cabeçalho porque você informou que não possui esses perfis.
 - O currículo exibe apenas “Araras, São Paulo, Brasil”; o endereço residencial completo foi omitido para preservar sua privacidade.
