@@ -17,12 +17,13 @@ Projeto de currículo em HTML5 criado para a atividade prática de Git e GitHub.
 5. Habilidades e competências
 6. Certificações e cursos complementares
 7. Idiomas
-8. Atualização da formação: Ensino Médio Completo
+8. Atualização da formação: Ensino Médio Completo, concluído em 2020
 
 ## Antes de entregar
 
 - Confira se as descrições gerais de atividades profissionais correspondem às tarefas que você realmente realizava.
-- A formação “Ensino Médio Completo” foi incluída; instituição e ano de conclusão não foram informados.
+- A formação “Ensino Médio Completo” foi incluída com conclusão em 2020; a instituição não foi informada.
+- O curso de Almoxarifado do SENAI está registrado com conclusão em 2026, conforme informado.
 - Troque os links genéricos de LinkedIn e GitHub pelos links dos seus perfis, caso tenha contas. Se não tiver, remova esses dois links.
 - O currículo exibe apenas “Araras, São Paulo, Brasil”; o endereço residencial completo foi omitido para preservar sua privacidade.
 
