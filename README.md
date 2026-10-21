@@ -19,13 +19,14 @@ Projeto de currículo em HTML5 criado para a atividade prática de Git e GitHub.
 7. Idiomas
 8. Atualização da formação: Ensino Médio Completo, concluído em 2020
 9. Confirmação do curso de Almoxarifado realizado no SENAI
+10. Ajuste do cabeçalho de contato, removendo perfis que não possui e alinhando os dados de contato
 
 ## Antes de entregar
 
 - Confira se as descrições gerais de atividades profissionais correspondem às tarefas que você realmente realizava.
 - A formação “Ensino Médio Completo” foi incluída com conclusão em 2020; a instituição não foi informada.
 - O curso de Almoxarifado foi realizado no SENAI e está registrado com conclusão em 2026, conforme confirmado.
-- Troque os links genéricos de LinkedIn e GitHub pelos links dos seus perfis, caso tenha contas. Se não tiver, remova esses dois links.
+- Os links de LinkedIn e GitHub foram removidos do cabeçalho porque você informou que não possui esses perfis.
 - O currículo exibe apenas “Araras, São Paulo, Brasil”; o endereço residencial completo foi omitido para preservar sua privacidade.
 
 ## Publicar no GitHub conforme o fluxo solicitado
