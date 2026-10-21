@@ -17,11 +17,12 @@ Projeto de currículo em HTML5 criado para a atividade prática de Git e GitHub.
 5. Habilidades e competências
 6. Certificações e cursos complementares
 7. Idiomas
+8. Atualização da formação: Ensino Médio Completo
 
 ## Antes de entregar
 
 - Confira se as descrições gerais de atividades profissionais correspondem às tarefas que você realmente realizava.
-- Acrescente, se desejar, sua formação de ensino médio e o período/instituição, que não foram informados nos dados enviados.
+- A formação “Ensino Médio Completo” foi incluída; instituição e ano de conclusão não foram informados.
 - Troque os links genéricos de LinkedIn e GitHub pelos links dos seus perfis, caso tenha contas. Se não tiver, remova esses dois links.
 - O currículo exibe apenas “Araras, São Paulo, Brasil”; o endereço residencial completo foi omitido para preservar sua privacidade.
 
