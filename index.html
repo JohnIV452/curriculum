@@ -63,15 +63,16 @@
     }
 
     .contact-list {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px 20px;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px 18px;
       margin: 0;
       padding: 0;
       list-style: none;
       font-size: 0.93rem;
     }
 
+    .contact-list li { min-width: 0; overflow-wrap: anywhere; }
     .contact-list a { color: #fff; text-underline-offset: 3px; }
 
     main { padding: 12px 44px 36px; }
@@ -147,13 +148,17 @@
       border-radius: 2px;
     }
 
+    @media (max-width: 760px) {
+      .contact-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
     @media (max-width: 600px) {
       body { padding: 0; background: var(--paper); }
       .resume { border: 0; border-radius: 0; box-shadow: none; }
       .hero { padding: 30px 22px 26px; }
       main { padding: 4px 22px 28px; }
       .site-footer { padding: 0 22px 24px; }
-      .contact-list { display: grid; gap: 7px; }
+      .contact-list { grid-template-columns: 1fr; gap: 7px; }
     }
 
     @media print {
@@ -177,8 +182,6 @@
         <li><a href="mailto:johniv452@gmail.com">johniv452@gmail.com</a></li>
         <li><a href="tel:+5519996053006">(19) 99605-3006</a></li>
         <li>Araras, São Paulo, Brasil</li>
-        <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn (adicionar perfil)</a></li>
-        <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub (adicionar perfil)</a></li>
       </ul>
     </header>
     <main>
